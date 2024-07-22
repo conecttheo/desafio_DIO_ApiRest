@@ -1,6 +1,6 @@
 # proj-028
 
-> Status do Projeto: :alarm_clock: EM ANDAMENTO
+> Status do Projeto: EM ANDAMENTO
 
 ## Descrição
 
@@ -74,11 +74,3 @@ classDiagram
 | PUT         | /api/v1 | /user/1           | Atualiza o usuário com o id 1           |
 | DELETE      | /api/v1 | /user/1           | Remove o usuário com o id 1             |
 
-## Documentação Springdoc Open API 
-
-No browser acesse <http://localhost:8082/swagger-ui/index.html>
-
-## Licença
-
-The [MIT License]() (MIT)
-Copyright :copyright: 2023 - proj-028
